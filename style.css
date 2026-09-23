@@ -20,7 +20,8 @@ ul {
   margin: 20px;
   font-size: 16px;
 }
-.sobre-mim{
+.sobre-mim,
+.tecnologia-que-estudo{
   background-color: #949090;
   padding: 20px;
   margin: 20px auto;
@@ -28,11 +29,4 @@ ul {
   box-shadow: 4px 8px 10px #5a5a5a;
    width: 70%;
 }
-.tecnologias-que-estudo{
-  background-color: #949090;
-  padding: 20px;
-  margin: 20px auto;
-  border-radius: 10px;
-  box-shadow: 4px 8px 10px #5a5a5a;
-  width: 70%;
-}
+
