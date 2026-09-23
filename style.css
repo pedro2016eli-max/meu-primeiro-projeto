@@ -1,5 +1,5 @@
 body {
-  background-color: #ffffffe0;
+  background-color: #e5e7eb;
     font-family: Arial, sans-serif;
 }
 h1 {
@@ -7,7 +7,7 @@ h1 {
   text-align: center;
 }
 h2 {
-  color: #ff086b;
+  color: #000000;
   font-size: 24px;
 }
 p { 
@@ -21,4 +21,9 @@ ul {
   font-size: 16px;
 }
 .sobre-mim{
-  background-color: 
+  background-color: #949090;
+  padding: 20px;
+  margin: 20px;
+border-radius: 10px;
+  box-shadow: 4px 8px #5a5a5a;
+}
