@@ -1,9 +1,9 @@
 body {
-  background-color: #f4f4f4;
+  background-color: #ffffffe0;
     font-family: Arial, sans-serif;
 }
 h1 {
-  color: #0f198e;
+  color: #000000;
   text-align: center;
 }
 h2 {
@@ -20,3 +20,5 @@ ul {
   margin: 20px;
   font-size: 16px;
 }
+.sobre-mim{
+  background-color: 
