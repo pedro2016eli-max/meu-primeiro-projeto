@@ -2,4 +2,20 @@ body {
   background-color: #f4f4f4;
     font-family: Arial, sans-serif;
 }
-h11111
+h1 {
+  color: #0f198e;
+  text-align: center;
+}
+h2 {
+  color: #FF086B
+  font-size: 24px;
+}
+p { 
+font-size: 18px;
+text-align: center;
+}
+ul {
+  padding: 20px;
+  margin: 20px;
+  font-size: 16px;
+}
