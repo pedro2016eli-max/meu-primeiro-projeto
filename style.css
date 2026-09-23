@@ -15,6 +15,7 @@ font-size: 18px;
 text-align: center;
 }
 ul {
+  list-style: square;
   padding: 20px;
   margin: 20px;
   font-size: 16px;
