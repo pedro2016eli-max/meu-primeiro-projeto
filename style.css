@@ -29,4 +29,9 @@ ul {
   box-shadow: 4px 8px 10px #5a5a5a;
    width: 70%;
 }
-
+  .sobre-mim:hover,
+  .tecnologias-que-estudo:hover{
+    box-shadow: 6px 12px 18px #5a5a5a;
+  }
+  
+  
