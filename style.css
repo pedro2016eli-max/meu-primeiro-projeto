@@ -35,5 +35,9 @@ ul {
     box-shadow: 6px 12px 18px #5a5a5a;
     transform: translateY(-5px);
   }
+.tecnologias-que-estudo li {
+color: darkblue;
+font-size: 18px;
+}
   
   
