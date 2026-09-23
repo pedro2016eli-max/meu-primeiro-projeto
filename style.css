@@ -33,6 +33,7 @@ ul {
   .sobre-mim:hover,
   .tecnologias-que-estudo:hover{
     box-shadow: 6px 12px 18px #5a5a5a;
+    transform: translateY(-5px);
   }
   
   
